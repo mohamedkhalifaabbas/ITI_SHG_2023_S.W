@@ -1,0 +1,6 @@
+
+
+	- Lab 4:
+		1- Implement linear searech algorithm
+		2- Implement Binary searech algorithm using Iterative Method (loop)
+		3- Complete the remaining tasks

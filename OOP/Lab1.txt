@@ -1,0 +1,8 @@
+Day1:
+======
+ class complex:
+	member variables(real, img)
+	constructors(parameterized)
+	setters & getters
+	member functions : member functon 'sum two complex number'
+        stand alone functions : stand alone funtion 'sum two complex number' 

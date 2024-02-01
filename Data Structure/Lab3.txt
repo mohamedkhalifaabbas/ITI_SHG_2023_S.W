@@ -1,0 +1,12 @@
+
+	- Taverse binary search tree RDL
+	- Delete node if it is not root
+		- GetParent(pDelete)
+		- pdelete has no childs
+		- pdelete has right child
+		- pdelete has left child
+		- pdelete has both right & left child
+				- parent  => pdelet->left
+				- maxRight of pdelete = pdelete->right
+	- find the node with maximum value in binary search tree
+

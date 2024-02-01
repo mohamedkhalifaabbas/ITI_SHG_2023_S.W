@@ -1,0 +1,24 @@
+Day2:
+======
+1- class complex:
+	member variables(real, img)
+	constructors(parameterized)
+	setters & getters
+	member functions: "Addcomplex, subComplex, PrintComplex"
+	- Try the "scope operator"==inline function (print)
+	
+	
+2- Class date:
+	member variables integers(day, month, year)
+	constructors(parameterized)
+	setters & getters
+	member functions: "subtractDate, PrintDate"
+
+
+Note: signature of "subtractDate" function should be like:
+	
+	int subtractDate(Date d); //D1.subtractDate(D2)
+
+20/6/2018
+21/7/2019
+(difference between two dates converted to days)
